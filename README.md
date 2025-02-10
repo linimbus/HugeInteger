@@ -21,8 +21,8 @@ HugeInteger is a C++ project designed to handle very large integers. These large
 ### Compilation Steps
 
 ```bash
-git clone https://github.com/linimbus/HugeInteger.git
-cd HugeInteger
+git clone https://github.com/linimbus/huge-integer-cpp.git
+cd huge-integer-cpp
 make
 ./HugeInteger
 ```
